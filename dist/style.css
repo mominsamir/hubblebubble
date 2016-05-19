@@ -13,9 +13,9 @@
 body{
 	font-family:'Oswald', Arial;
 	color:#fff;
-	background:url(../bg.jpg) top center no-repeat #000;
+	background:url('bg.jpg') top center no-repeat #000;
 }
-
+https://raw.githubusercontent.com/mominsamir/hubblebubble/master/images/bg.jpg
 .overlay{
 	background:rgba(0,0,0,.8);
 	position:absolute;
